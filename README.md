@@ -59,4 +59,10 @@ sending:
     print(x)
     sm.send_message('127.0.0.1', x) #you can do anything you want to this example
 
+the reciever side:
+
+    import SecureMessaging as sm
+
+    sm.receive_message()
+    
 you can do a lot with these functions, you just need to know how to do them.

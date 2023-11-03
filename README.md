@@ -1,7 +1,5 @@
 # SecureMessaging
 A module for messaging securely.
-GuineaBot3 v4.0.5, Copyright © 2022 GuineaPigLord. All rights reserved.
-
 Pretty much the same thing as GuineaSend but more lightweight.
 
 More info [here](https://github.com/ethicalhacker7192/OTP-MAC-online)
@@ -67,3 +65,6 @@ the reciever side:
     sm.receive_message()
     
 you can do a lot with these functions, you just need to know how to do them.
+
+
+GuineaSender v6.0.3, Copyright © 2022 GuineaPigLord. All rights reserved.

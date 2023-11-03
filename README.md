@@ -1,5 +1,6 @@
 # SecureMessaging
 A module for messaging securely.
+GuineaBot3 v4.0.5, Copyright © 2022 GuineaPigLord. All rights reserved.
 
 Pretty much the same thing as GuineaSend but more lightweight.
 
